@@ -5,10 +5,11 @@ I'm a passionate Java Spring Boot developer with a focus on building scalable an
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Java
+- **Languages:** Java (8/11/17)
 - **Frameworks:** Spring Boot, Spring Data JPA, Spring Cloud
-- **Databases:** MySQL, PostgreSQL, Informix, Oracle, MongoDB
+- **Databases:** MySQL, PostgreSQL, Informix, Oracle,Redis, MongoDB
 - **Tools:** Docker, Kubernetes, Jenkins
+- **Messaging:** Apache Kafka
 - **Cloud:** AWS
 - **Testing:** JUnit, Mockito
 - **Version Control:** Git

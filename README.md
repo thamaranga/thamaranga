@@ -37,7 +37,7 @@ I'm a passionate Java Spring Boot developer with a focus on building scalable an
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/hasitha-thamaranga-856b9657)
+- LinkedIn: [Hasitha Thamaranga](https://www.linkedin.com/in/hasitha-thamaranga-856b9657)
 
 Happy coding!
 

@@ -19,3 +19,25 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true)
 
+
+
+I'm a passionate Java Spring Boot developer with a focus on building scalable and efficient microservices. I love turning ideas into software solutions that make a positive impact.
+
+## 🔧 Technologies & Tools
+
+- **Languages:** Java
+- **Frameworks:** Spring Boot, Spring Cloud
+- **Databases:** MySQL, PostgreSQL, Informix, Oracle, MongoDB
+- **Tools:** Docker, Kubernetes, Jenkins , AWS
+- **Testing:** JUnit, Mockito
+- **Version Control:** Git
+- **IDE:** IntelliJ IDEA
+
+
+
+## 📫 Let's Connect
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/hasitha-thamaranga-856b9657)
+
+Happy coding!
+
